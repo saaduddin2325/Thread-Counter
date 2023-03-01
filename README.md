@@ -1,1 +1,2 @@
 # Thread-Counter
+This is a project where I organized the data of thread purchases made within a day. I separated the purchase data by Customer, Sale, and Color. I then created a line of code that presents the daily amount of sales for a specific color!
